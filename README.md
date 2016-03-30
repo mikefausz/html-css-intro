@@ -1,4 +1,4 @@
-# html-css-intro
+# HTML CSS Intro
 My first website built with HTML and CSS
 
 ----------------------------------
