@@ -4,9 +4,9 @@ My first website built with HTML and CSS
 >This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original assignment text is below:
 
 
-*Week 1, Day 1*
 
-##HTML - Day 1
+
+##HTML - Day 1 *Week 1, Day 1*
 Everyone has to ship code on Day 1!
 
 ###You Should Know
